@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @woshiys
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning ML
+- 🌱 I’m currently learning DL
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me shengg.yang@foxmail.com
 
